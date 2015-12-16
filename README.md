@@ -13,3 +13,7 @@ none
 ## Example Request
 GET<br />
 http://api.kazuhsat.com/v1/pickup/list
+
+## Example Result
+**code**
+test
