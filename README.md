@@ -12,5 +12,4 @@ none
 
 ## Example Request
 GET
-
 http://api.kazuhsat.com/v1/pickup/list
