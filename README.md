@@ -11,5 +11,5 @@ http://api.mangaz.com/v1/pickup/list
 none
 
 ## Example Request
-GET
+GET<br />
 http://api.kazuhsat.com/v1/pickup/list
