@@ -5,6 +5,11 @@
 http://api.mangaz.com/v1/pickup/list
 
 ## Resouce Information
-|リンゴ|ブドウ|
-|---|---|
-|10|20|
+|Response Formats|JSON|
+
+## Parameters
+none
+
+## Example Request
+GET
+http://api.kazuhsat.com/v1/pickup/list
